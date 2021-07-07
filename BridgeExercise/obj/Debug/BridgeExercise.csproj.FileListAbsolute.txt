@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\BridgeExercise\bin\Debug\BridgeExercise.exe.config
+C:\Users\Ranieri\Desktop\BridgeExercise\bin\Debug\BridgeExercise.exe
+C:\Users\Ranieri\Desktop\BridgeExercise\bin\Debug\BridgeExercise.pdb
+C:\Users\Ranieri\Desktop\BridgeExercise\obj\Debug\BridgeExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\BridgeExercise\obj\Debug\BridgeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\BridgeExercise\obj\Debug\BridgeExercise.exe
+C:\Users\Ranieri\Desktop\BridgeExercise\obj\Debug\BridgeExercise.pdb
